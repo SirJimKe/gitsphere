@@ -35,4 +35,4 @@ This project is part of the portfolio for Holberton School, completed on 6/12/20
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/valariembithe/GitSphere.git
+   git clone https://github.com/SirJimKe/gitsphere.git
